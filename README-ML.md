@@ -21,7 +21,7 @@
 </details>
 <!-- Do not translate this -->
 
-# നവ  ഓപ്പൺ സോഴ്‌സ് സംഭാവകരെ സ്വാഗതം ചെയ്യുക!!
+# നവ  ഓപ്പൺ സോഴ്‌സ് സംഭാവകരെ സ്വാഗതം !!
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
@@ -44,7 +44,7 @@
 - [ഓപ്പൺ സോഴ്‌സ് സംഭാവന സംരംഭങ്ങൾ](#open-source-contribution-initiatives)
 - [അനുമതി](#license)
 
-## പൊതുവേ ഓപ്പൺ സോഴ്‌സിലേക്ക് സംഭാവന ചെയ്യുന്നു
+## പൊതുവേ ഓപ്പൺ സോഴ്‌സിലേക്ക് സംഭാവന ചെയ്യാൻ
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - GitHub- ലെ സംഭാവന വിജയത്തിലേക്കുള്ള വഴിയിലേക്ക് നിങ്ങളെ നയിക്കാൻ ഡിജിറ്റൽ ഓഷ്യന്റെ ട്യൂട്ടോറിയലുകൾ.
 - [Issuehub.io](http://issuehub.io/) -ലേബലും ഭാഷയും ഉപയോഗിച്ച്  ഗിറ്റ്ഹബ് പ്രശ്നങ്ങൾ തിരയുന്നതിനുള്ള ഒരു ഉപകരണം.
